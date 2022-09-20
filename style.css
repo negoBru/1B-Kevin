@@ -1,7 +1,22 @@
-.lista {
-color: red;
+.imagens {
+text-align: center;
+background: black;
+
+}
+
+.listas {
+	background: black;
+}
+.minhalista {
+color: whitesmoke;
 font-size: 30;
 }
+
+.lista {
+color: whitesmoke;
+font-size: 30;
+}
+
 
 #imagem {
 text-align: center;
