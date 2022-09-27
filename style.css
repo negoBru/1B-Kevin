@@ -17,9 +17,28 @@ color: whitesmoke;
 font-size: 30;
 }
 
+#cabecalho {
+text-align: center;
+background: greenyellow;
+border-bottom-style: solid;
+margin-left: -8px;
+margin-right: -8px;
+margin-top: -8px;
+}
 
 #imagem {
 text-align: center;
+border: 5px;
+border-style: solid;
+border-color: blue;
+border-top-left-radius: 25px;
+border-top-right-radius: 25px;
+border-bottom-left-radius: 25px;
+border-bottom-right-radius: 25px;
+padding-top: 10px;
+padding-bottom: 10px;
+margin-left: 350px;
+margin-right: 350px;
 }
 #link {
 text-align: center;
