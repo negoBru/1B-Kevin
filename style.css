@@ -17,6 +17,17 @@ color: whitesmoke;
 font-size: 30;
 }
 
+.rodape {
+text-align: center;
+background: greenyellow;
+border-top-style: solid;
+margin-left: -8px;
+margin-right: -8px;
+margin-bottom: -30px;
+padding: 1px;
+}
+
+
 #cabecalho {
 text-align: center;
 background: greenyellow;
